@@ -1,2 +1,2 @@
-EPICODE HW7 JS <br />
+**EPICODE HW7 JS** <br />
 simple JS exercises
